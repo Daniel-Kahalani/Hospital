@@ -1,0 +1,22 @@
+﻿  article.cpp
+  date.cpp
+  department.cpp
+  doctor.cpp
+  employee.cpp
+  hospitalExceptions.h
+  employeeGenerator.cpp
+  hospital.cpp
+  main.cpp
+  mainFunctions.cpp
+  nurse.cpp
+  patient.cpp
+  researcher.cpp
+  researcherDoctor.cpp
+  researcherSurgeon.cpp
+  researchInstitute.cpp
+  surgeon.cpp
+  surgeryVisitCard.cpp
+  visitCard.cpp
+  visitGenarator.cpp
+  Generating Code...
+  FINAL_HOSPITAL.vcxproj -> C:\Users\Daniel\Documents\תואר\פרויקטים\c++\פרוייקט c++\FINAL_HOSPITAL\Debug\FINAL_HOSPITAL.exe
