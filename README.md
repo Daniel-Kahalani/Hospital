@@ -7,8 +7,9 @@ the project's target was to build application to manage hospital staff.
 ## Screenshots
 
 ![Menu](Screenshots/start.png) 
-![Menu](Screenshots/addNurse.png) ![Menu](Screenshots/addVisit.png)
-![Menu](Screenshots/start.png)
+![Menu](Screenshots/addNurse.png) 
+![Menu](Screenshots/addDoctor.png)
+![Menu](Screenshots/addVisit.png)
 
 ## Built With
 
